@@ -117,4 +117,4 @@ Followed by a sequence of compressed blocks:
 
 
 # License
- - FreeMote License for the `FreeMote.XMemCompress` package. Anything else is unser the MIT License.
+ - FreeMote License for the `FreeMote.XMemCompress` package. Anything else is under the MIT License.
